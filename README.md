@@ -1,2 +1,2 @@
 # github-upload
-This is Tetris project which I did as an assignmnet at University. To run the code you have to blabla.
+This is Tetris project which I did as a second assignmnet at University.
